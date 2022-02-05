@@ -7,7 +7,7 @@
 
 ## Certificates:
 
-[ University of Helsinki: Full Stack Open Certificate ](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/fi/097a852876c857d6d6306e1c8a9d6a9e)
+[ University of Helsinki: Full Stack Open Certificate ](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/097a852876c857d6d6306e1c8a9d6a9e)
 
 [ University of Helsinki: GraphQL Certificate ](https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/965f177a067370dba5002bb2fa22d284)
 
